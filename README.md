@@ -5,7 +5,7 @@ A modern, responsive portfolio website for Kelsey Soi, a frontend developer aspi
 
 ## 🌐 Live Demo
 
-[View the portfolio](https://your-deployed-link-here.com)
+[View the portfolio](https://personal-portfolio-mu-one-69.vercel.app/)
 ---
 ## 📋 Overview
 
