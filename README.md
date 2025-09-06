@@ -5,7 +5,7 @@ A modern, responsive portfolio website for Kelsey Soi, a frontend developer aspi
 
 ## 🌐 Live Demo
 
-[View the portfolio]()
+[View the portfolio](https://personal-portfolio-three-coral-79.vercel.app/)
 ---
 ## 📋 Overview
 
