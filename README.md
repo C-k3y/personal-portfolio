@@ -49,4 +49,3 @@ Kelsey Soi - Frontend Developer & Aspiring Software Engineer
 
 ---
 
-*This portfolio was designed to showcase frontend development skills while maintaining a professional appearance suitable for career advancement.*
