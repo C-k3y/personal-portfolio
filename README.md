@@ -97,7 +97,7 @@ A blockchain-powered solution focused on transparency and traceability.
 
 ---
 
-### 📍 Terminal
+### 📍 Terminus
 
 Built during the **DEV3Pack Hackathon**.
 
