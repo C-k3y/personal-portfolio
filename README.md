@@ -7,10 +7,12 @@
 ---
 
 # 👋 About Me
+I'm **Kelsey**, an aspiring Software Engineer passionate about building meaningful digital experiences and exploring the technology behind them.
 
-I'm **Kelsey Soi**, a Frontend Developer and aspiring Full-Stack Blockchain Engineer passionate about building decentralized applications, smart contracts, and modern web experiences.
+My journey began with frontend development and has grown into blockchain development, smart contracts, and Web3 infrastructure. I'm currently learning backend development as I work toward becoming a well-rounded Software Engineer who can build and connect applications from end to end.
+Beyond building, I'm curious about smart contract security, cryptography, Zero-Knowledge Proofs (ZKPs), and decentralized technologies.
 
-My journey began with frontend development and has expanded into blockchain engineering, cryptography, smart contract security, and Web3 infrastructure. I enjoy solving real-world problems through technology while continuously exploring emerging technologies such as Zero-Knowledge Proofs (ZKPs), decentralized storage, and Web3 Security.
+I believe in learning by doing, growing through challenges, and turning ideas into reality.
 
 ---
 
@@ -22,7 +24,6 @@ My journey began with frontend development and has expanded into blockchain engi
 * Blockchain Integration using Ethers.js
 * Linux Development & Open Source Tools
 * Git & Collaborative Development
-* Learning Cryptography & Zero-Knowledge Proofs
 
 ---
 
@@ -54,60 +55,23 @@ My journey began with frontend development and has expanded into blockchain engi
 
 ---
 
-# 🏆 Certifications
-
-### HackQuest
-
-* Ethereum Builder Program
-
-### Cyfrin Updraft
-
-* Blockchain Basics
-* Solidity Smart Contract Development
-* Fundamentals of Zero-Knowledge Proofs (ZKPs)
-
----
-
 # 💡 Featured Projects
+
+### 🏷️ Geschichte
+A clothing brand built around identity, resilience, and self-expression. Every piece represents a story — every scar, every lesson, every victory.
 
 ### 🔒 LockLedger
 
 A decentralized document vault that combines blockchain technology, encrypted storage, and wallet authentication to securely manage freelancing.
 
-**Key Features**
-
-* Smart Contracts in Solidity
-* Wallet Authentication
-* Ethers.js Integration
-* Secure File Management
-* Decentralized Architecture
-
----
-
-### 💧 AquaTrace
-
-A blockchain-powered solution focused on transparency and traceability.
-
-**Technologies**
-
-* Solidity
-* React
-* TypeScript
-* Blockchain Infrastructure
-
----
+### 🤱 MamaCare
+A comprehensive maternal health platform that provides AI-powered health assistance, appointment scheduling, health tracking, and educational resources for expectant mothers.
 
 ### 📍 Terminus
 
-Built during the **DEV3Pack Hackathon**.
-
 A Web3-based solution designed to address decentralized inheritance powered by Solana smart contracts and gas-free activity checks to help secure digital assets.
 
----
-
 ### ⚡ P2P Energy Swap
-
-Built during the **DeKUT Hack & Rise Program**.
 
 A peer-to-peer energy trading platform enabling users to exchange energy resources efficiently through blockchain-powered mechanisms.
 
@@ -115,24 +79,20 @@ A peer-to-peer energy trading platform enabling users to exchange energy resourc
 
 # 📈 Current Learning Focus
 
-* Smart Contract Security
-* Advanced Solidity Development
-* Cryptography
-* Zero-Knowledge Proofs (ZKPs)
-* Full-Stack Web3 Development
+* Frontend Development — Exploring new technologies and refining existing skills
+* Backend Development — Node.js, REST APIs, and server-side logic
+* Smart Contract Security — Writing safer, more reliable Solidity contracts
+* Web3 Integration — Connecting frontend applications to smart contracts
 
 ---
 
-# 🎯 Career Goal
+# 💡 What I Believe
 
-To become a highly skilled Full-Stack Blockchain Engineer capable of building secure, scalable, and impactful decentralized applications that solve real-world problems.
+You don't have to know everything before you start building.
+Some of the most valuable lessons come from debugging something that doesn't work,asking the right questions, integrating technologies for the first time, or turning a vague idea into a working prototype.
 
----
-
-# 📄 License
-
-This project is open source and available under the MIT License.
+**I'm here to keep learning, keep building, keep getting better.** 
 
 ---
 
-> *"Building the future one block, one contract, and one line of code at a time."* 🚀
+> *"Keep building.Keep learning"* 🚀
