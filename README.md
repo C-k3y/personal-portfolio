@@ -1,11 +1,5 @@
 # Kelsey Soi - Personal Portfolio
 
-## 🌐 Live Demo
-
-[View Portfolio](#)
-
----
-
 # 👋 About Me
 I'm **Kelsey**, an aspiring Software Engineer passionate about building meaningful digital experiences and exploring the technology behind them.
 
