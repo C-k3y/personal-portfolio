@@ -1,6 +1,6 @@
 # Kelsey Soi - Personal Portfolio
 
-# 👋 About Me
+# 👋 [About Me](https://personal-portfolio-liard-sigma.vercel.app/)
 
 I'm **Kelsey**, an aspiring Software Engineer passionate about building meaningful digital experiences and exploring the technology behind them.
 
